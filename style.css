@@ -1,5 +1,35 @@
 body{
-    background-color: midnightblue;
-    color: whitesmoke;
+    background-color: lightsteelblue;
+    color: rgb(19, 14, 14);
     text-align: center;
+    font-size: 16px;
+    font-family: Cabin , sans-serif;
+}
+
+
+
+}
+table{
+    border: 3px solid black;
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-align: center;
+    
+       
+}
+
+thead{
+    background-color: #00688B;
+}
+
+tr, td{
+    border: 2px outset black;
+    
+}
+
+
+
+.first{
+    background-color: chartreuse;
 }
